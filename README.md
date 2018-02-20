@@ -1,4 +1,4 @@
-# [File Transfer App using Tkinter (GUI) SQLite3 (DB)](../Tech-Acad-Projects/python/files24_main.pyw)
+# [File Transfer App using Tkinter (GUI) SQLite3 (DB)](../../Tech-Acad-Projects/python/files24_main.pyw)
 Python application using a GUI interface, to specify file type, age and directories. Time of transfer stored in a database
 
 Written and tested in Python 3.6, SQLite3 on a PC/Win7 as a drill for the python course at the Tech Academy, September 2017, Portland OR
