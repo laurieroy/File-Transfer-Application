@@ -3,7 +3,7 @@ Python application using a GUI interface, to specify file type, age and director
 
 Written and tested in Python 3.6, SQLite3 on a PC/Win7 as a drill for the python course at the Tech Academy, September 2017, Portland OR
 
-![app screenshot](./DailyFileTransferApp.PNG)
+![app screenshot](../../../Tech-Acad-Projects/blob/master/python/DailyFileTransferApp.PNG)
 
 Use Python and Tkinter to build a desktop application with both GUI and 
 database functionality. This project increased in complexity over [several 
